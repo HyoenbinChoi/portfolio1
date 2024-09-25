@@ -214,4 +214,9 @@
     .fullscreen {
         display: none;
     }
+    .link1,
+    .link2,
+    .link3 {
+        display: none;
+    }
 }
