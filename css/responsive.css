@@ -48,7 +48,10 @@
     main>aside,
     main>div.asideBack,
     .swiper-button-next,
-    .swiper-button-prev {
+    .swiper-button-prev,
+    .link1,
+    .link2,
+    .link3 {
         display: none;
     }
 
@@ -206,6 +209,7 @@
 }
 
 @media screen and (hover: none) and (pointer: coarse) {
+
     header>div>nav,
     .fullscreen {
         display: none;
