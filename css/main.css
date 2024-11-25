@@ -152,7 +152,7 @@ header>div>div:nth-child(1) p {
   margin-right: 0.2rem;
 }
 
-header>div>div:nth-child(1) p: {
+header>div>div:nth-child(1) p {
   filter: invert(100%);
   cursor: pointer;
 }
@@ -181,7 +181,7 @@ header>div>div:nth-child(2) {
   }
 }
 
-header>div>div:nth-child(2): {
+header>div>div:nth-child(2) {
   transform: scale(1.2);
 }
 
@@ -254,7 +254,7 @@ header>div>nav>ul li a {
   }
 }
 
-header>div>nav>ul li: {
+header>div>nav>ul li {
   transform: scale(1.2);
 }
 
@@ -580,7 +580,7 @@ main section:nth-child(1)>article>div:nth-child(3) div>p {
   width: 100%;
   max-width: 100%;
   align-self: center;
-  height: auto;
+  height: 100%;
   object-fit: contain;
   grid-row: 1 / 5;
   grid-column: 1 / 6;
