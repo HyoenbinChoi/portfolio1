@@ -574,7 +574,7 @@ main section:nth-child(1)>article>div:nth-child(3) div>p {
 }
 
 .swiper-slide img,
-.swiper-slide video {
+.swiper-slide iframe {
   display: flex;
   padding: 10%;
   width: 100%;
