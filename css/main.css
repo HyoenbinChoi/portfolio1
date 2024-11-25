@@ -153,7 +153,6 @@ header>div>div:nth-child(1) p {
 }
 
 header>div>div:nth-child(1) p {
-  filter: invert(100%);
   cursor: pointer;
 }
 
@@ -236,6 +235,7 @@ header>div>nav>ul li:nth-child(3) {
 
 header>div>nav>ul li a {
   font-size: 1.2rem;
+  padding: 1rem;
   text-decoration: none;
   text-align: center;
   color: white;
